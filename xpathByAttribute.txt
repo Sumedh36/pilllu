@@ -1,0 +1,35 @@
+ grocery
+//img[@alt='Grocery']
+
+top offer
+//img[@alt='Top Offers']
+
+electronics
+//img[@alt='Electronics']
+
+mobiles
+//img[@alt='Mobiles']
+
+appliance
+//img[@alt="Appliances"]
+
+travel
+//img[@alt="Travel"]
+
+beauty,toys and more
+//img[@alt="Beauty, Toys & More"]
+
+two wheelers
+//img[@alt="Two Wheelers"]
+
+fashion
+//img[@alt="Fashion"]
+
+home
+//img[@alt="Home"]
+
+
+
+
+
+
